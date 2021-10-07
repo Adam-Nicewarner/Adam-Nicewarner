@@ -5,7 +5,7 @@ Due to the prominence of this wiki, I want to put up things that describe me. Ho
 
 
 ## **Cats**
-One or several paragraphs.
+Cats are an animal. The cats movie starring Jason Derulo, Taylor Swift, and James Corden is proof of an uncaring and merciless god. Most Calico cats are female, due to complex genetics resulting in the precise pattern for calico cats almost never occuring in male cats. 
 
 
 1. ![placeholder image](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
