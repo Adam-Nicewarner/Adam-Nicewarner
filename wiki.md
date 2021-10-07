@@ -1,26 +1,24 @@
-# Topic Title
-![](url for an image about your topic)
+# The *Adam Nicewarner* Wiki
+![placeholder image](https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png)
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
+Due to the prominence of this wiki, I want to put up things that describe me. However, I don't really have any large projects to show off right now, so instead I have several nice images of cats.
 
 
-## Section 1
+## **Cats**
 One or several paragraphs.
 
-## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
 
-## Section 3
-One or several paragraphs for subsection 3.
+1. ![placeholder image](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
+- [Source](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat)
 
-## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
+2. ![placeholder image](https://m.media-amazon.com/images/M/MV5BOTA3NmU1NDMtYzcxMC00ZjI5LTllZWItYWI3MmZkNTE1ZTg0XkEyXkFqcGdeQW1hcmNtYW5u._V1_.jpg)
+- [Source](https://www.imdb.com/title/tt5697572/)
+
+3. ![placeholder image](https://media.wired.com/photos/5e1e646743940d0008009167/125:94/w_2038,h_1532,c_limit/Science_Cats-84873657.jpg)
+- [Source](https://www.wired.com/story/cats-australia-bushfires/)
+
+4. ![placeholder image](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg)
+- [Source](https://www.wired.com/story/cats-australia-bushfires/)
 
 ## References
 1. Reference 1
