@@ -19,8 +19,3 @@ Cats are an animal. The cats movie starring Jason Derulo, Taylor Swift, and Jame
 
 4. ![placeholder image](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg)
 - [Source](https://www.wired.com/story/cats-australia-bushfires/)
-
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
